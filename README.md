@@ -1,2 +1,2 @@
-# Sicun-activity
-project for borrowing class
+# Learning
+Some notes on the way of learning
